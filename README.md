@@ -58,7 +58,9 @@ Classes for wing area data manipulation and database entry.
 Includes plotting and visualisation functions.
 
 
-## Scripts for plotting calling phenotypic screen outliers
+## Scripts for plotting and calling phenotypic screen outliers
+
+The most recent outlier anlysis was done externally, and the data is pulled back into the database.
 
 ### Fertility_outliers.py
 
